@@ -1,1 +1,2 @@
-# victor
+- Hi, my name is Victor (@victoraroestad)
+- I'm currently learning Python and are keen to learn more about Machine learning and AI.
