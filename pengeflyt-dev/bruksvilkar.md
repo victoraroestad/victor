@@ -28,4 +28,3 @@ Applikasjonen er ment for avtalt privat bruk innen én husholdning. Eksterne tje
 
 victoraroestad(at)me.com
 
-Bytt ut «(at)» med @ ved kontakt.
