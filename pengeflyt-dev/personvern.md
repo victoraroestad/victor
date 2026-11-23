@@ -26,4 +26,3 @@ Kontoeieren kan trekke tilbake bankens samtykke gjennom banken eller Enable Bank
 
 victoraroestad(at)me.com
 
-Bytt ut «(at)» med @ ved kontakt.
